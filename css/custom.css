@@ -1,0 +1,7 @@
+
+.header .navbar-brand span:first-child {
+  color: #6cabdd;
+}
+.header .navbar-brand span:nth-child(2) {
+  margin-top: -12px;
+}
